@@ -1,7 +1,7 @@
 [O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Offer_en)  
   
 ## ПУБЛИЧНАЯ ОФЕРТА   
-на оказание услуг сервиса «Визитница»  
+на оказание услуг по предоставлению доступа к сервису «Визитница»  
 
 Дата публикации: 21 мая 2026 г.  
 Дата вступления в силу: 21 мая 2026 г.
