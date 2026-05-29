@@ -26,7 +26,7 @@ Ushbu Telegram-bot Telegram messenjeri ichida elektron tashrifnomalarini saqlash
    * **Standart (Asosiy funksionallik):** Uchta maydon koʻzda tutilgan: *«Заголовок»* (Sarlavha), *«Описание»* (Tavsif) va *«Телефон»* (Telefon). «Sarlavha» va «Tavsif» maydonlarida faqat matnli xabarlar saqlanishi mumkin. Har qanday tashqi havolalar, rasmlar, ovozli xabarlar va videolar tizim tomonidan rad etiladi (inobatga olinmaydi).
    * **Extended (Obuna):** Kengaytirilgan maydonlar sonini taqdim etadi va tashqi resurslarga bosiluvchi (klika优先) havolalarni, shu jumladan «Tavsif» maydonining ichiga joylashtirish imkoniyatini ochadi.
 
-![Standart kategoriyasidagi vizitkaning koʻrinishi](images/asis.png)
+![Standart kategoriyasidagi vizitkaning koʻrinishi](images_uz/create_3.png)
 
 ### 3. Tashrifnomani qanday toʻldirish yoki oʻzgartirish mumkin?
 1. Vizitka yaratilgandan soʻng, bot klaviaturasida **«Моя визитка»** (Mening vizitkam) tugmasi paydo boʻladi — uni bosing.
