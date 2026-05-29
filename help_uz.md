@@ -62,7 +62,7 @@ Ushbu Telegram-bot Telegram messenjeri ichida elektron tashrifnomalarini saqlash
 
 Roʻyxatdan muayyan vizitkani ochganingizda, uni saralanganlarga (sevimlilarga) qoʻshishingiz yoki saqlanganlar qatoridan oʻchirib tashlashingiz mumkin.
 
-![Boshqa foydalanuvchining saqlangan vizitkasini koʻrish](images/Cards_list.png)
+![Boshqa foydalanuvchining saqlangan vizitkasini koʻrish](images_uz/list1.png)
 
 ### 7. Saqlangan tashrifnomalari orasidan qidiruvni qanday amalga oshirish lozim?
 Bot kontaktlar bazasi bilan ishlash uchun moslashuvchan qidiruv interfeysini taqdim etadi:
