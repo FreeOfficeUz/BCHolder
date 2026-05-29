@@ -34,7 +34,7 @@ Ushbu Telegram-bot Telegram messenjeri ichida elektron tashrifnomalarini saqlash
 3. Oʻzgartirmoqchi boʻlgan muayyan boʻlimni tanlang. Bot ushbu maydon uchun ma’lumot kiritishni soʻraydi — matnni yozib, xabar qilib yuboring, shunda ma’lumotlar yangilanadi. Boshqa barcha maydonlar ham xuddi shu tarzda tahrirlanadi.
 * **Format boʻyicha cheklovlar:** Faqat matnli qiymatlardan foydalanish mumkin. Ovozli xabarlar, video, tasvirlar va shunga oʻxshash boshqa ma’lumotlar bot tomonidan inobatga olinmaydi.
 
-![Vizitkani tahrirlash interfeysi](images/edit_ru.png)
+![Vizitkani tahrirlash interfeysi](images_uz/edit.png)
 
 * **Extended tarifi uchun:** Tahrirlash mumkin boʻlgan maydonlar roʻyxati sizning tarifingizga (Standart yoki Extended) qarab farq qiladi. Extended obunasi mavjud boʻlganda, vizitkani bir vaqtning oʻzida uchta tilda yaratish va toʻldirish imkoniyati ochiladi.
 
