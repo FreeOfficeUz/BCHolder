@@ -48,7 +48,7 @@ Ushbu Telegram-bot Telegram messenjeri ichida elektron tashrifnomalarini saqlash
 
 | Asosiy boʻlim tugmasi | Variantlar tanloviga ega QR-kod |
 | :---: | :---: |
-| ![Botning asosiy menyusi](images/main_3.png) | ![Vizitkani ulashish](images/share_ru.png) |
+| ![Botning asosiy menyusi](images_uz/main1.png) | ![Vizitkani ulashish](images_uz/QR.png) |
 
 ### 5. Tashrifnomani qanday oʻchirish lozim?
 1. Bot klaviaturasidagi **«Моя визитка»** (Mening vizitkam) tugmasini bosing.
