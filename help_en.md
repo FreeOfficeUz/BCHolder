@@ -111,7 +111,7 @@ This search utility is accessible to **all bot users** without exception, allowi
 3. Depending on your hosting history, the interface logs your postings across **"Активные"** (Active), **"Завершенные"** (Completed), and **"Отмененные"** (Canceled) categories. You can enter them to review data logs, adjust audience category settings, or refine specific industry access parameters.
 
 All event management screens:
-![All event management dashboards](images_en/Event_ALL_80.png)
+![All event management dashboards](images_en/Event_ALL80.png)
 
 * **Limits and content moderation:** To maintain a clean community environment, one user account can host a maximum of 10 simultaneously active events. Every single created event undergoes mandatory manual review by our team and becomes visible to the wider community only after passing moderation. You can monitor the live validation status directly inside the event card layout.
 * **Archiving window:** Completed or canceled postings remain viewable in your dashboard system for 7 days before being completely purged by the automatic database cleanup.
