@@ -85,13 +85,13 @@ The Telegram bot supports three interface languages: Russian, Uzbek, and English
 
 | Settings section interface | Language selection screen |
 | :---: | :---: |
-| ![Settings layout options](images/Settings.png) | ![Interface language options](images/Lang.png) |
+| ![Settings layout options](images_en/setings.png) | ![Interface language options](images_en/selectlang.png) |
 
 ### 9. How to view your profile information
 To monitor your current account data and subscription details, navigate to the **"Настройка"** (Settings) section and press the **"Профиль"** (Profile) button.  
 Please keep in mind that a portion of advanced profile metrics and status visibility is hidden for basic Standart accounts.
 
-![Account profile metrics screen](images/pofile.png)
+![Account profile metrics screen](images_en/pofile.png)
 
 ### 10. How to view the list of available events
 This search utility is accessible to **all bot users** without exception, allowing everyone to discover professional events, meetups, exhibitions, or seminars hosted by other community members.
