@@ -123,13 +123,13 @@ If you haven't activated your premium tier yet, a **"Подключить Extend
 
 | Main keyboard activation entry | Plan description card |
 |:---:|:---:|
-| ![Main keyboard without subscription](images_uz/conectextended0.png) | ![Extended plan features breakdown](images_uz/conectextended1.png) |
+| ![Main keyboard without subscription](images_en/conectextended0.png) | ![Extended plan features breakdown](images_en/conectextended1.png) |
 
 2. To proceed further, click the inline **"Подключить Extended"** button directly beneath the description card, then select your desired duration tier (1, 3, 6, or 12 months). The interface processes payments in local currency (UZS) or via Telegram Stars.
 
 | Price layout options in UZS | Price layout options in Stars |
 | :---: | :---: |
-| <img src="images_en/conectextendedbillsum.png"/> | <img src="images_en/conectextendedbillstars.png"/> |
+| <img src="images_en/conectextendedsum.png"/> | <img src="images_en/conectextendedstars.png"/> |
 
 3. **Payment processing channels:**
    * Selecting local UZS currency routing will prompt you to choose between popular national payment integrations — **Click** or **Payme**, generating an official checkout invoice link.
