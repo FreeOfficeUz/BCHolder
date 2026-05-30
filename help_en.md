@@ -123,13 +123,13 @@ If you haven't activated your premium tier yet, a **"Подключить Extend
 
 | Main keyboard activation entry | Plan description card |
 |:---:|:---:|
-| ![Main keyboard without subscription](images/main_2.png) | ![Extended plan features breakdown](images/Extended.png) |
+| ![Main keyboard without subscription](images_uz/conectextended0.png) | ![Extended plan features breakdown](images_uz/conectextended1.png) |
 
 2. To proceed further, click the inline **"Подключить Extended"** button directly beneath the description card, then select your desired duration tier (1, 3, 6, or 12 months). The interface processes payments in local currency (UZS) or via Telegram Stars.
 
 | Price layout options in UZS | Price layout options in Stars |
 | :---: | :---: |
-| <img src="images/extended_sum.png" width="350"/> | <img src="images/Extended_stars.png" width="350"/> |
+| <img src="images_en/conectextendedbillsum.png"/> | <img src="images_en/conectextendedbillstars.png"/> |
 
 3. **Payment processing channels:**
    * Selecting local UZS currency routing will prompt you to choose between popular national payment integrations — **Click** or **Payme**, generating an official checkout invoice link.
@@ -137,7 +137,7 @@ If you haven't activated your premium tier yet, a **"Подключить Extend
 
 | Payment gateway choice (Click / Payme) | National currency invoice check | Telegram Stars invoice check |
 | :---: | :---: | :---: |
-| <img src="images/extended_sum_pay.png" width="250"/> | <img src="images/extended_sum_pay_bill.png" width="250"/> | <img src="images/extended_stars_pay.png" width="250"/> |
+| <img src="images_en/conectextendedpaymeclick.png"/> | <img src="images_en/conectextendedbillsum.png"/> | <img src="images_en/conectextendedbillstars.png"/> |
 
 ### 13. Miscellaneous
 * The service workflows are completely intuitive: every background command or interface change is supported by explicit status updates or context-aware system instructions.
