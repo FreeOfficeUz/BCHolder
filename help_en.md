@@ -63,7 +63,7 @@ There are two convenient methods to share your card:
 
 When opening any specific business card from your list, you can add it to your Favorites or delete it from your digital cardholder.
 
-![Viewing a collected business card](images_en/list_vew.png)
+![Viewing a collected business card](images_en/listvew.png)
 
 ### 7. How to search among your saved business cards
 The bot provides a highly responsive interface for searching through your collected contact base:
@@ -72,13 +72,13 @@ The bot provides a highly responsive interface for searching through your collec
 * **Phone number search:** Phone numbers must be typed out completely, in full international format (starting with a "+" sign, without spaces or hyphens).
 * **Filters and data grouping:** Along with plain text search, you can apply targeted category filters. Go to **"Сохраненные визитки"** (Saved Cards) -> **"Отборы"** (Filters).
 
-![Filter parameter selection layout](images/filter_1.png)
+![Filter parameter selection layout](images_en/filterselect.png)
 
 You can filter contacts by plan categories ("Extended" and "Standard"), as well as by operational industries specified on your partners' cards *(Note: setting up your own business industry category is unavailable on the Standart basic tier).*
 
 | Category Filters | Industry Field Filters |
 | :---: | :---: |
-| <img src="images/list_kat.png" width="350"/> | <img src="images/Filtrer_sfera.png" width="350"/> |
+| <img src="images_en/filtercat.png"/> | <img src="images_en/filtersfera.png"/> |
 
 ### 8. How to change the bot interface language
 The Telegram bot supports three interface languages: Russian, Uzbek, and English. To modify your language preference, navigate to the **"Настройка"** (Settings) section on the bot keyboard, press the **"Изменить язык"** (Change Language) button, and select your preferred language option.
