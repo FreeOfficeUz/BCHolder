@@ -71,13 +71,13 @@ Bot kontaktlar bazasi bilan ishlash uchun moslashuvchan qidiruv interfeysini taq
 * **Telefon raqami boʻyicha qidirish:** Telefon raqamini xalqaro formatda, toʻliq kiritish lozim (albatta «+» belgisi bilan va boʻshliqlarsiz).
 * **Filtrlar va saralashlar:** Matnli qidiruvdan tashqari, siz aniq mezonlar boʻyicha saralashdan foydalanishingiz mumkin. Buning uchun **«Сохраненные визитки»** (Saqlangan vizitkalar) -> **«Отборы»** (Saralashlar) boʻlimiga oʻting.
 
-![Saralash parametrlarini tanlash](images/filter_1.png)
+![Saralash parametrlarini tanlash](images_uz/Select.png)
 
 Siz kontaktlarni kategoriyalar («Extended» va «Standard»), shuningdek, saqlangan vizitkalarda koʻrsatilgan faoliyat sohalari boʻyicha saralashingiz mumkin *(Oʻz profilingizda faoliyat sohasini koʻrsatish Standart kategoriyasi uchun mavjud emas).*
 
 | Kategoriyalar boʻyicha saralash | Faoliyat sohalari boʻyicha saralash |
 | :---: | :---: |
-| <img src="images/list_kat.png" width="350"/> | <img src="images/Filtrer_sfera.png" width="350"/> |
+| <img src="image_uz/Kat_uz.png" width="350"/> | <img src="images_uz/sfera.png" width="350"/> |
 
 ### 8. Bot interfeysi tilini qanday oʻzgartirish mumkin?
 Telegram-botda uchta interfeys tili mavjud: ruscha, oʻzbekcha va inglizcha. Interfeys tilini oʻzgartirish uchun bot klaviaturasidagi **«Настройка»** (Sozlamalar) boʻlimiga oʻting, **«Изменить язык»** (Tilni oʻzgartirish) tugmasini bosing va oʻzingizga mos tilni tanlang.
