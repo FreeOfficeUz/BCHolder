@@ -84,7 +84,7 @@ Telegram-botda uchta interfeys tili mavjud: ruscha, oʻzbekcha va inglizcha. Int
 
 | Sozlamalar boʻlimi | Tilni tanlash |
 | :---: | :---: |
-| ![Sozlamalar boʻlimi tugmalari](images_uz/settings.png) | ![Interfeys tilini tanlash](images_uz/changelang.png) |
+| ![Sozlamalar boʻlimi tugmalari](images_uz/settings.png) | ![Interfeys tilini tanlash](images_uz/changelanguz.png) |
 
 ### 9. Profil ma’lumotlarini qanday koʻrish lozim?<a name="profile"></a>
 Profil haqidagi ma’lumotlarni koʻrish uchun **«Настройка»** (Sozlamalar) boʻlimiga oʻting va **«Профиль»** (Profil) tugmasini bosing.  
