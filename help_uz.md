@@ -122,7 +122,7 @@ Agar tarif hali faollashtirilmagan boʻlsa, botning asosiy klaviaturasida **«П
 
 | Asosiy klaviaturadagi ulanish tugmasi | Tarif tavsifi |
 |:---:|:---:|
-| ![Obunasiz asosiy menyu](images_uz/Extended_1.png) | ![Extended tarifi tavsifi](images_uz/Extended_2.png) |
+| ![Obunasiz asosiy menyu](images_uz/Extended1.png) | ![Extended tarifi tavsifi](images_uz/Extended2.png) |
 
 2. Davom etish uchun tavsif ostidagi klaviaturada yana bir bor **«Подключить Extended»** tugmasini bosing va mos keluvchi obuna muddatini (1, 3, 6 yoki 12 oy) tanlang. Servis milliy valyutada (UZS) yoki Telegram Yulduzlari (Stars) orqali toʻlov variantlarini taklif etadi.
 
