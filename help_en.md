@@ -26,7 +26,7 @@ This Telegram bot is designed for storing and exchanging digital business cards 
    * **Standart (Basic functionality):** Provides three primary fields: *«Заголовок»* (Title), *«Описание»* (Description), and *«Телефон»* (Phone number). The Title and Description fields can process and display plain text messages only. Any external links, images, voice notes, or video clips will be ignored by the system.
    * **Extended (Subscription):** Provides an expanded number of fields and unlocks the ability to insert clickable links to external websites or social media platforms, including inside the Description field.
 
-![Business card preview in Standart plan](images/asis.png)
+![Business card preview in Standart plan](images_en/new_created.png)
 
 ### 3. How to fill in or edit your business card
 1. Once your business card is initialized, the **"Моя визитка"** (My Card) button becomes available on the bot menu keyboard — press it.
@@ -34,11 +34,11 @@ This Telegram bot is designed for storing and exchanging digital business cards 
 3. Choose the specific section you want to adjust. The bot will prompt you to type in the details for that field — enter the text, hit send, and the info will update instantly. All other fields can be updated sequentially in the same manner.
 * **Format restrictions:** Only plain text data is accepted. Other formats, such as voice notes, video files, images, etc., will be completely ignored by the system.
 
-![Business card editing interface](images/edit_ru.png)
+![Business card editing interface](images_en/mycard_edit.png)
 
 * **For Extended plan users:** The layout of available fields for editing depends on your subscription tier (Standart or Extended). With an active Extended subscription, you unlock a multi-language feature allowing you to fill out and store your card data in three languages simultaneously.
 
-![Multi-language profile data entry in Extended plan](images/BC_All_ru_60_perc.png)
+![Multi-language profile data entry in Extended plan](images_en/BC_EN_ALL_60per.png)
 
 ### 4. How to share your business card with another person
 > *You can only share your business card if you have previously initialized and created it.*
@@ -49,7 +49,7 @@ There are two convenient methods to share your card:
 
 | Main section button | QR Code menu interface |
 | :---: | :---: |
-| ![Bot main menu keyboard](images/main_3.png) | ![Sharing options menu](images/share_ru.png) |
+| ![Bot main menu keyboard](images_en/mainQR.png) | ![Sharing options menu](images_en/QR.png) |
 
 ### 5. How to delete your business card
 1. Press the **"Моя визитка"** (My Card) button on the bot keyboard.
@@ -63,7 +63,7 @@ There are two convenient methods to share your card:
 
 When opening any specific business card from your list, you can add it to your Favorites or delete it from your digital cardholder.
 
-![Viewing a collected business card](images/Cards_list.png)
+![Viewing a collected business card](images_en/list_vew.png)
 
 ### 7. How to search among your saved business cards
 The bot provides a highly responsive interface for searching through your collected contact base:
