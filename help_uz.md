@@ -101,16 +101,16 @@ Ushbu funksiya **botning barcha foydalanuvchilari uchun** ochiq boʻlib, boshqa 
 *Ushbu funksiya faqat faol Extended tarifi boʻlgan foydalanuvchilar uchun mavjud.*
 1. Bot klaviaturasidagi **«Моои мероприятия»** (Mening tadbirlarim) boʻlimiga oʻting. 
 
-![Mening tadbirlarim tugmasi](images/My_Events_ru.png)
+![Mening tadbirlarim tugmasi](images_uz/Tatbir_uz.png)
 
 2. Sizning qarshingizda boshqaruv menyusi ochiladi. Yangi tadbir yaratish uchun **«Создать мероприятие»** (Tadbir yaratish) tugmasini bosing va bot yoʻriqnomalariga amal qiling.
 
-![Tadbir yaratish ekrani](images/My_Events1_ru.png)
+![Tadbir yaratish ekrani](images_uz/Tatbir1_uz.png)
 
 3. Tadbirlaringiz tarixiga qarab, bu yerda **«Активные»** (Faollar), **«Завершенные»** (Yuborilganlar/Yakunlanganlar) va **«Отмененные»** (Bekor qilinganlar) boʻlimlari koʻrinadi. Ularning ichida tegishli oʻtgan tadbirlar roʻyxatini koʻrish, saqlangan vizitkalarning kategoriyalari yoki faoliyat sohalari boʻyicha koʻrinish cheklovlarini sozlash mumkin. 
 
 Tadbirlarni boshqarishning barcha ekranlari:
-![Tadbirlarni boshqarishning barcha ekranlari](images/My_Events_60_1_ru.png)
+![Tadbirlarni boshqarishning barcha ekranlari](images_uz/Tatbir_Uz_ALL_60.png)
 
 * **Cheklovlar va moderatsiya:** Bir vaqtning oʻzida 10 tadan koʻp boʻlmagan faol tadbirga ega boʻlishingiz mumkin. Har bir yaratilgan tadbir majburiy tartibda moderatsiyadan (tekshiruvdan) oʻtadi va faqat u muvaffaqiyatli yakunlangandan keyingina hamjamiyatning boshqa ishtirokchilariga koʻrinadi. Moderatsiya holatini har doim tadbirning kartochkasi ichida koʻrib turish mumkin.
 * **Arxiv:** Yakunlangan va bekor qilingan tadbirlar tizimda 7 kun davomida saqlanadi, shundan soʻng qayta tiklanmaydigan qilib avtomatik ravishda oʻchiriladi.
