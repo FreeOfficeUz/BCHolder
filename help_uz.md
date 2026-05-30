@@ -77,7 +77,7 @@ Siz kontaktlarni kategoriyalar («Extended» va «Standard»), shuningdek, saqla
 
 | Kategoriyalar boʻyicha saralash | Faoliyat sohalari boʻyicha saralash |
 | :---: | :---: |
-| <img src="images_uz/Kat_uz.png" width="350"/> | <img src="images_uz/sfera.png" width="350"/> |
+| <img src="images_uz/Kat_uz.png"/> | <img src="images_uz/sfera.png"/> |
 
 ### 8. Bot interfeysi tilini qanday oʻzgartirish mumkin?
 Telegram-botda uchta interfeys tili mavjud: ruscha, oʻzbekcha va inglizcha. Interfeys tilini oʻzgartirish uchun bot klaviaturasidagi **«Настройка»** (Sozlamalar) boʻlimiga oʻting, **«Изменить язык»** (Tilni oʻzgartirish) tugmasini bosing va oʻzingizga mos tilni tanlang.
