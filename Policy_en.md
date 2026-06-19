@@ -1,6 +1,6 @@
 [Русский](https://freeofficeuz.github.io/BCHoldes-legal/Policy_ru) | [O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz)  
   
-## PRIVACY POLICY OF THE TELEGRAM BOT "Vizitnitsa"  
+## PRIVACY POLICY OF THE TELEGRAM BOT "Bcholderbot"  
 
 **Effective Date:** Jun 21, 2026  
 
