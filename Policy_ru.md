@@ -1,6 +1,6 @@
 [O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Policy_en)  
   
-## ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ ТЕЛЕГРАМ-БОТА «Визитница»  
+## ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ ТЕЛЕГРАМ-БОТА «Bcholderbot»  
 
 Дата вступления в силу: «21» июня 2026 г.  
 
