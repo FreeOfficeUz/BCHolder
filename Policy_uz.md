@@ -6,7 +6,7 @@
 Ushbu Maxfiylik siyosati (keyingi oʻrinlarda — «Siyosat») @Bcholderbot Telegram-botidan (keyingi oʻrinlarda — «Servis») foydalanish jarayonida shakllanadigan ma’lumotlarga ishlov berish, ularni saqlash va himoya qilish tartibini belgilaydi. Servisning yaratuvchisi va egasi (keyingi oʻrinlarda — «Huquq egasi») Foydalanuvchilarga faqatgina Servis interfeysi orqali shaxsiy ma’lumotlarni mustaqil boshqarish uchun texnik funksiyalarni taqdim etadi.
 
 ### 1. UMUMIY QOIDALAR
-1.1. Botdan foydalanish («Start» yoki «Запустить» tugmasini bosish) Foydalanuvchining ushbu Siyosat shartlariga soʻzsiz va toʻliq roziligini bildiradi.
+1.1. Botdan foydalanish («Start» yoki «Botni boshlash» tugmasini bosish) Foydalanuvchining ushbu Siyosat shartlariga soʻzsiz va toʻliq roziligini bildiradi.
 1.2. Agar Foydalanuvchi Siyosat shartlariga rozi boʻlmasa, u Botdan foydalanishni zudlik bilan toʻxtatishi va u bilan boʻlgan yozishmalarni (chat tarixini) oʻchirib tashlashi shart.
 1.3. Ushbu Siyosat faqat mazkur Botga nisbatan qoʻllaniladi va Telegram messenjerining oʻziga tegishli maxfiylik siyosatini tartibga solmaydi.
 
