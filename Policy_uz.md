@@ -1,8 +1,9 @@
 [Русский](https://freeofficeuz.github.io/BCHoldes-legal/Policy_ru) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Policy_en)  
   
-## «Vizitnitsa» TELEGRAM-BOTINING MAXFIYLIK SIYOSATI
+## «Bcholderbot» TELEGRAM-BOTINING MAXFIYLIK SIYOSATI
 
-**Kuchga kirish sanasi:** 2026-yil «21»-may
+**Kuchga kirish sanasi:** 2026-yil «21»-iyun  
+
 Ushbu Maxfiylik siyosati (keyingi oʻrinlarda — «Siyosat») @Bcholderbot Telegram-botidan (keyingi oʻrinlarda — «Servis») foydalanish jarayonida shakllanadigan ma’lumotlarga ishlov berish, ularni saqlash va himoya qilish tartibini belgilaydi. Servisning yaratuvchisi va egasi (keyingi oʻrinlarda — «Huquq egasi») Foydalanuvchilarga faqatgina Servis interfeysi orqali shaxsiy ma’lumotlarni mustaqil boshqarish uchun texnik funksiyalarni taqdim etadi.
 
 ### 1. UMUMIY QOIDALAR
