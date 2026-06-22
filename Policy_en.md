@@ -1,4 +1,4 @@
-[Русский](https://freeofficeuz.github.io/BCHoldes-legal/Policy_ru) | [O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz)  
+[Русский](https://freeofficeuz.github.io/BCHolder/Policy_ru) | [O'zbekcha](https://freeofficeuz.github.io/BCHolder/Policy_uz)  
   
 ## PRIVACY POLICY OF THE TELEGRAM BOT "Bcholderbot"  
 
