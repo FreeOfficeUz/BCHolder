@@ -1,4 +1,4 @@
-# BCHoldes-legal  
+# BCHolderbot  
 **Читать на русском:**  
 [Публичная оферта](https://freeofficeuz.github.io/BCHolder/Offer_ru)  
 [Политика конфиденциальности](https://freeofficeuz.github.io/BCHolder/Policy_ru)  
